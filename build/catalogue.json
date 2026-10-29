@@ -1,0 +1,25 @@
+{
+  "stars": 5044,
+  "constellations": 88,
+  "constellation_paths": 893,
+  "milky_way_samples": 905,
+  "search_objects": 288,
+  "bank1_bytes": 15580,
+  "ephemeris_days": 1462,
+  "ephemeris_first": "2025-01-01",
+  "ephemeris_last": "2029-01-01",
+  "lunar_record_bytes": 6,
+  "lunar_radius_km": 1737.4,
+  "lunar_angular_radius_q16_range": [
+    280,
+    319
+  ],
+  "sources": {
+    "stars.6.json": "0297b8fa3adfbce1dc26566f61c4abcc1df4f29c6a28729ca06b56d1c6d25602",
+    "constellations.lines.json": "294f66bef5d5cf50b1e17f16d2efa1d97a15131612c68dd935adef6e7373e13c",
+    "constellations.json": "ab4ae692027cbc042c0d6791a84456a65eb7c55656107fd00c58ff6e55d4d8b2",
+    "starnames.json": "19c84bc885f8a97c3b8e1f6a380084c575a9758dedfe35256e911a823ec3a695",
+    "mw.json": "aee221a7a0e879418e685de00c3e68fbdfac5667c0a8aab74929ef9cf4aab4fb",
+    "messier.json": "b576a9ef2ff1e3e81af49779c76ceecdf1e2f88b7bd7d21736fa9d590c9cb2b4"
+  }
+}
